@@ -1,7 +1,7 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=zoi1op&show_icons=true&theme=synthwave"
+  srcset="https://github-readme-stats.vercel.app/api?username=zoi1op&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
 <source
