@@ -1,16 +1,15 @@
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=zoi1op&show_icons=true&theme=merko"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=zoi1op&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=zoi1op&show_icons=true" />
-</picture>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoi1op&layout=compact)](https://github.com/zoi1op/github-readme-stats)
-
+<table align="center" border="0">
+  <tr>
+    <td border="none" rowspan="3" width="324">
+      <img src="" />
+    </td>
+    <td width="440" border="none">
+      <img src="https://github-readme-stats.vercel.app/api?username=zoi1op&theme=react&hide_border=true&show_icons=true" />
+    </td>
+  <tr>
+  </tr>
+    <td width="440" border="none">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoi1op&theme=react&hide_border=true&layout=compact&langs_count=8&hide=TSQL,Dockerfile&card_width=440" />
+    </td>
+  </tr>
+</table>
