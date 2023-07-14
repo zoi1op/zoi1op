@@ -1,7 +1,7 @@
 <table align="center" border="0">
   <tr>
     <td border="none" rowspan="3" width="324">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zoi1op" />
+      <img src="" />
     </td>
     <td width="440" border="none">
       <img src="https://github-readme-stats.vercel.app/api?username=zoi1op&theme=react&hide_border=true&show_icons=true" />
