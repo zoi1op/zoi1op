@@ -9,7 +9,10 @@
   <tr>
   </tr>
     <td width="440" border="none">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoi1op&theme=react&hide_border=true&layout=compact&langs_count=8&hide=TSQL,Dockerfile&card_width=440" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoi1op&theme=react&hide_border=true&layout=Demo&langs_count=8&hide=TSQL,Dockerfile&card_width=440" />
     </td>
   </tr>
 </table>
+
+
+
