@@ -36,14 +36,14 @@
     <tr>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=922ddc&title_color=922ddc&text_color=dec0f4&bg_color=0e0416&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=4c0c07&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
           alt="My Github stats"
           height="330"
         />
       </td>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=922ddc&title_color=922ddc&text_color=dec0f4&bg_color=0e0416&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=4c0c07&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
           alt="My Language stats"
           width="300"
         />
