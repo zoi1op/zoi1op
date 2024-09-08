@@ -53,7 +53,7 @@
 </a>
 
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+  <a href="https://github.com/zoi1op#gh-dark-mode-only">
     <img
         src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=zoiop&layout=compact&icon_color=b5b1b1&title_color=b5b1b1&text_color=ccc6c6&bg_color=0a0201&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
         alt="My Wakatime stats"
