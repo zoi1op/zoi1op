@@ -8,7 +8,7 @@
 
 <div align="center">
 <img height="25" alt="lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
-<img height="25" alt="lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png">
+<img height="25" alt="luau" src="https://media.discordapp.net/attachments/1287500318183264467/1287500360230895688/luau_icon.png?ex=66f1c5a6&is=66f07426&hm=ca0e0321543413306f28fa694f7947ef560beb793988858da3451e25a6faf799&=&format=webp&quality=lossless">
 <img height="25" alt="java script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </div>
