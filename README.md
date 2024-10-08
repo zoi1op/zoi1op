@@ -2,24 +2,38 @@
     <tr>
       <td style="border: 0;">
 
+![banner](https://github.com/user-attachments/assets/045f8dd8-8609-47ce-ba73-01cff8af6144)
+
  ### Hello , I'm Georgii 🇷🇺
 - **Roblox programmer**
-- **I make many games my experience is 4 years in lua / luau / java script / python** 
+- **I make many games my experience is 4 years in lua / <a href="https://luau.org/">
+   <img height="17" alt="luau" src="https://media.discordapp.net/attachments/1287500318183264467/1287500360230895688/luau_icon.png?ex=66f1c5a6&is=66f07426&hm=ca0e0321543413306f28fa694f7947ef560beb793988858da3451e25a6faf799&=&format=webp&quality=lossless">
+ <a>luau / rojo** 
+           
+ <div align="center">
+
+## SOCIALS
+
+  [![DevForum](https://img.shields.io/badge/Dev%20Forum-black?style=for-the-badge&logo=robloxstudio&logoColor=f5f5f5&logoSize=25&color=black
+)](https://devforum.roblox.com/u/zoiop)
+  [![Github](https://img.shields.io/github/followers/zoi1op?style=for-the-badge&logo=github&labelColor=black&color=black
+)](https://github.com/zoi1op)
+
+<div>
 
 <div align="center">
-<img height="25" alt="lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
-<a href="https://luau.org/">
-   <img height="25" alt="luau" src="https://media.discordapp.net/attachments/1287500318183264467/1287500360230895688/luau_icon.png?ex=66f1c5a6&is=66f07426&hm=ca0e0321543413306f28fa694f7947ef560beb793988858da3451e25a6faf799&=&format=webp&quality=lossless">
- <a>
+
+## Utility
 
  <a href="https://rojo.space">
-   <img height="20" alt="rojo" src="https://rojo.space/img/logo.png">
+   <img height="25" alt="rojo" src="https://rojo.space/img/logo.png">
  <a>
-<img height="25" alt="java script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-</div>
 
-[![Github](https://img.shields.io/github/followers/zoi1op?label=Follow&style=social)](https://github.com/zoi1op)
+<a href="https://github.com/JohnnyMorganz/luau-lsp">
+   <img height="30" alt="luau-lsp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png">
+ <a>
+
+</div>
 
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/zoi1op#gh-light-mode-only">
