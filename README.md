@@ -6,9 +6,9 @@
 
  ### Hello , I'm Georgii 🇷🇺
 - **Roblox programmer**
-- **I make many games my experience is 4 years in lua / <a href="https://luau.org/">
-   <img height="17" alt="luau" src="https://media.discordapp.net/attachments/1287500318183264467/1287500360230895688/luau_icon.png?ex=66f1c5a6&is=66f07426&hm=ca0e0321543413306f28fa694f7947ef560beb793988858da3451e25a6faf799&=&format=webp&quality=lossless">
- <a>luau / rojo** 
+- **I make many games my experience is 4 years in <a href="https://luau.org/">
+   <img height="20" alt="luau" src="https://media.discordapp.net/attachments/1287500318183264467/1287500360230895688/luau_icon.png?ex=66f1c5a6&is=66f07426&hm=ca0e0321543413306f28fa694f7947ef560beb793988858da3451e25a6faf799&=&format=webp&quality=lossless">
+ <a>luau** 
            
  <div align="center">
 
