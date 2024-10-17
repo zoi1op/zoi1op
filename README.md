@@ -2,7 +2,8 @@
     <tr>
       <td style="border: 0;">
 
-![banner](https://github.com/user-attachments/assets/7f2f860a-bec6-4d5d-9626-2b27c6281f6a)
+![banner](https://github.com/user-attachments/assets/4b771943-cf83-4500-8ef7-512b4c8fe2b0)
+
 
  ### Hello , I'm Georgii 🇷🇺
 - **Roblox programmer**
