@@ -60,11 +60,10 @@
         src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=zoiop&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29##gh-light-mode-only"
         alt="My Wakatime stats"
       />
-  </a>
-</div>
-</a>
+        </div>
     </tr>
   </table>
+</a>
 
 <!-- GRS (Dark Mode) -->
 <a href="https://github.com/zoi1op#gh-dark-mode-only">
