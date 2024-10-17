@@ -49,14 +49,22 @@
       </td>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=donut&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
             alt="My Language stats"
             width="300"
           />
       </td>
+<div align="center">
+  <a href="https://github.com/zoi1op#gh-dark-mode-only">
+    <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=zoiop&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29##gh-light-mode-only"
+        alt="My Wakatime stats"
+      />
+  </a>
+</div>
+</a>
     </tr>
   </table>
-</a>
 
 <!-- GRS (Dark Mode) -->
 <a href="https://github.com/zoi1op#gh-dark-mode-only">
@@ -71,7 +79,7 @@
       </td>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=4c4c4c&title_color=4c4c4c&text_color=4c4c4c&bg_color=191919&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=donut&icon_color=4c4c4c&title_color=4c4c4c&text_color=4c4c4c&bg_color=191919&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
           alt="My Language stats"
           width="300"
         />
