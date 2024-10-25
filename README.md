@@ -4,7 +4,6 @@
 
 ![banner](https://github.com/user-attachments/assets/4b771943-cf83-4500-8ef7-512b4c8fe2b0)
 
-
  ### Hello , I'm Georgii 🇷🇺
 - **Roblox programmer**
 - **I make many games my experience is 4 years in <a href="https://luau.org/">
@@ -49,9 +48,9 @@
       </td>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=donut&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
             alt="My Language stats"
-            width="300"
+            width="320"
           />
       </td>
     <img
@@ -75,9 +74,9 @@
       </td>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=donut&icon_color=4c4c4c&title_color=4c4c4c&text_color=4c4c4c&bg_color=191919&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=4c4c4c&title_color=4c4c4c&text_color=4c4c4c&bg_color=191919&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
           alt="My Language stats"
-          width="300"
+          width="320"
         />
       </td>
     </tr>
