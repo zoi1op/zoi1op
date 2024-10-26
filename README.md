@@ -2,8 +2,7 @@
     <tr>
       <td style="border: 0;">
 
-![banner_test](https://github.com/user-attachments/assets/592bb373-54b9-49f7-89ef-72eb212a943f)
-
+![banner_test](https://github.com/user-attachments/assets/3d1132f1-438a-4349-8e9e-816dbd2648b8)
 
 
  ### Hello , I'm Georgii 🇷🇺
