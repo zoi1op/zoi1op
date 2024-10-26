@@ -2,7 +2,9 @@
     <tr>
       <td style="border: 0;">
 
-![banner](https://github.com/user-attachments/assets/4b771943-cf83-4500-8ef7-512b4c8fe2b0)
+![banner_test](https://github.com/user-attachments/assets/592bb373-54b9-49f7-89ef-72eb212a943f)
+
+
 
  ### Hello , I'm Georgii 🇷🇺
 - **Roblox programmer**
@@ -67,14 +69,14 @@
     <tr>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=4c4c4c&title_color=4c4c4c&text_color=4c4c4c&bg_color=191919&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
           alt="My Github stats"
           height="330"
         />
       </td>
       <td style="border: 0;">
         <img
-          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=4c4c4c&title_color=4c4c4c&text_color=4c4c4c&bg_color=191919&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
           alt="My Language stats"
           width="320"
         />
@@ -86,7 +88,7 @@
 <div align="center">
   <a href="https://github.com/zoi1op#gh-dark-mode-only">
     <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=zoiop&layout=compact&icon_color=4c4c4c&title_color=4c4c4c&text_color=4c4c4c&bg_color=191919&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=zoiop&layout=compact&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
         alt="My Wakatime stats"
       />
   </a>
