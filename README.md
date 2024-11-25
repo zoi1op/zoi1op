@@ -76,10 +76,7 @@
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="50" height="50"/>
-</a>    
-<a href="https://yaml.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="YAML" width="50" height="50"/>
-</a>        
+</a>         
 <a href="https://luau.org/">
 <img src="https://luau.org/assets/images/luau-88.png" alt="luau" width="50" height="50"/>
 </a>
@@ -89,6 +86,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a>
+<a href="https://yaml.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="Json" width="50" height="50"/>
+</a>     
+<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="YAML" width="50" height="50"/>
+</a>   
 <p>
 
 <a href="https://github.com/zoi1op#gh-dark-mode-only">
