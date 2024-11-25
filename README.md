@@ -1,8 +1,10 @@
 ![banner_test](https://github.com/user-attachments/assets/3d1132f1-438a-4349-8e9e-816dbd2648b8)
 
 
+<p align="center">
 <h2 align="center">Hello , I'm Georgii 🇷🇺</h2>
-- **I am a Russian developer I work with many programming languages**
+<h5 align="center">I am a Russian developer I work with many programming languages</h5>
+<p>
 
 <h2 align="center">Socials</h2>
 <div align="center">
@@ -64,7 +66,7 @@
 
 <p>
 
-<h2 align="center">Language</h2>
+<h2 align="center">Languages</h2>
 <p align="center">
 <a href="https://dev.java/" target="_blank" rel="noreferrer">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="55" height="55"/>
