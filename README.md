@@ -74,6 +74,12 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" alt="kotlin" width="50" height="50"/>
 </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="50" height="50"/>
+</a>    
+<a href="https://yaml.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="YAML" width="50" height="50"/>
+</a>        
 <a href="https://luau.org/">
 <img src="https://luau.org/assets/images/luau-88.png" alt="luau" width="50" height="50"/>
 </a>
