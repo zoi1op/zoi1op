@@ -1,7 +1,3 @@
-<table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
-
 ![banner_test](https://github.com/user-attachments/assets/3d1132f1-438a-4349-8e9e-816dbd2648b8)
 
 
@@ -87,52 +83,17 @@
 </a>
 <p>
 
-<!-- GRS (Light Mode) -->
-<a href="https://github.com/zoi1op#gh-light-mode-only">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
-            alt="My Github stats"
-            height="330"
-          />
-      </td>
-      <td style="border: 0;">
-          <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
-            alt="My Language stats"
-            width="320"
-          />
-      </td>
-    <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=zoiop&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29##gh-light-mode-only"
-        alt="My Wakatime stats"
-      />
-    </tr>
-  </table>
-</a>
-
-<!-- GRS (Dark Mode) -->
 <a href="https://github.com/zoi1op#gh-dark-mode-only">
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="border: 0;">
         <img
           src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
           alt="My Github stats"
           height="330"
         />
-      </td>
-      <td style="border: 0;">
         <img
           src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
           alt="My Language stats"
-          width="320"
+          width="300"
         />
-      </td>
-    </tr>
-  </table>
 </a>
 
 <p align="center">
