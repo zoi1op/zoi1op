@@ -1,6 +1,3 @@
-![banner_test](https://github.com/user-attachments/assets/3d1132f1-438a-4349-8e9e-816dbd2648b8)
-
-
 >><p align="center">
 >><h2 align="center">Hello , I'm Georgii 🇷🇺</h2>
 >><h5 align="center">I am a Russian developer I work with many programming languages</h5>
