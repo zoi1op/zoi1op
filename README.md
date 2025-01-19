@@ -101,14 +101,22 @@
 >><p>
 
 <a href="https://github.com/zoi1op">
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My Github stats" height="330" />
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=586069&title_color=586069&text_color=586069&bg_color=ffffff&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My Github stats" height="330" />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My Github stats" height="330" #gh-dark-mode-only />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=586069&title_color=586069&text_color=586069&bg_color=ffffff&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My Github stats" height="330" #gh-light-mode-only />
 </a>
 
 <a href="https://github.com/zoi1op">
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="My Language stats" width="300" />
-  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=586069&title_color=586069&text_color=586069&bg_color=ffffff&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="My Language stats" width="300" />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="My Language stats" width="300" #gh-dark-mode-only />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=zoi1op&layout=pie&icon_color=586069&title_color=586069&text_color=586069&bg_color=ffffff&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="My Language stats" width="300" #gh-light-mode-only />
 </a>
+
+<p align="center">
+  <a href="https://github.com/zoi1op">
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=zoiop&layout=compact&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29" alt="My Wakatime stats" #gh-dark-mode-only />
+    <img src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=zoiop&layout=compact&icon_color=586069&title_color=586069&text_color=586069&bg_color=ffffff&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29" alt="My Wakatime stats" #gh-light-mode-only />
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/zoi1op">
