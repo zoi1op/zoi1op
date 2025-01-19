@@ -32,7 +32,12 @@
 >><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 >></a>
 >><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+>><a href="https://github.com/zoi1op#gh-dark-mode-only">
 >><img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="bash" width="50" height="50"/>
+>></a>
+>><a href="https://github.com/zoi1op#gh-light-mode-only">
+>><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="50" height="50"/>
+>></a>
 >></a>
 >><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="50"/>
