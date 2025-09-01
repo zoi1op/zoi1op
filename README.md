@@ -66,7 +66,7 @@
 >><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="55" height="55"/>
 >></a>
 >><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
->><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" alt="kotlin" width="50" height="50"/>
+>><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="50" height="50"/>
 >></a>
 >><a href="https://www.python.org/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="50" height="50"/>
