@@ -45,6 +45,12 @@
 >><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="vs" width="50" height="50"/>
 >></a>
+>><a href="https://mariadb.com/docs/" target="_blank" rel="noreferrer">
+>><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="60" height="50"/>
+>></a>
+>><a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
+>><img src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" alt="mysql" width="60" height="50"/>
+>></a>
 >><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="blender" width="50" height="50"/>
 >></a>
@@ -79,13 +85,7 @@
 >></a>
 >><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 >><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
->>?</a>
->><a href="https://yaml.org/" target="_blank" rel="noreferrer">
->><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="Json" width="50" height="50"/>
->></a>     
->><a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
->><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="YAML" width="50" height="50"/>
->></a>   
+>>?</a> 
 >><p>
 
 
