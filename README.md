@@ -54,9 +54,6 @@
 >><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="blender" width="50" height="50"/>
 >></a>
->><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
->><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="50" height="50"/>
->></a>
 >><a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
 >><img src="https://www.svgrepo.com/show/373829/maven.svg" alt="apache maven" width="50" height="50"/>
 >></a>
