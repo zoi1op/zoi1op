@@ -25,8 +25,8 @@
 >><a href=https://www.jetbrains.com/pycharm>
 >><img src=https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png width=50px height=50px>
 >></a>
->><a href=https://www.jetbrains.com/teamcity>
->><img src=https://teamcity.minecraftforge.net/img/icons/teamcity.svg width=50px height=50px>
+>><a href=https://www.jetbrains.com/go/>
+>><img src=https://dl.flathub.org/media/com/jetbrains/GoLand/d6e4038aefd28f73f9deee6ee2318010/icons/128x128@2/com.jetbrains.GoLand.png alt="goland" width=50px height=50px>
 >></a>
 >><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 >><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
@@ -48,14 +48,14 @@
 >><a href="https://mariadb.com/docs/" target="_blank" rel="noreferrer">
 >><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="60" height="50"/>
 >></a>
->><a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
->><img src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" alt="mysql" width="60" height="50"/>
+>><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+>><img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-icon-svg-download-png-1175122.png?f=webp&w=256" alt="postgres" width="60" height="50"/>
 >></a>
->><a href="https://www.blender.org/" target="_blank" rel="noreferrer">
->><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" alt="blender" width="50" height="50"/>
+>><a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+>><img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png" alt="kubernetes" width="58" height="58"/>
 >></a>
->><a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
->><img src="https://www.svgrepo.com/show/373829/maven.svg" alt="apache maven" width="50" height="50"/>
+>><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+>><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/2048px-Docker-svgrepo-com.svg.png" alt="docker" width="50" height="50"/>
 >></a>
 >><a href="https://gradle.com/" target="_blank" rel="noreferrer">
 >><img src="https://www.svgrepo.com/show/353831/gradle.svg" alt="gradle" width="55" height="55"/>
@@ -71,11 +71,14 @@
 >><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="50" height="50"/>
 >></a>
+>><a href="https://go.dev/" target="_blank" rel="noreferrer">
+>><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="golang" width="75" height="75"/>
+>></a>  
 >><a href="https://www.python.org/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="50" height="50"/>
 >></a>         
 >><a href="https://luau.org/">
->><img src="https://luau.org/assets/images/luau-88.png" alt="luau" width="50" height="50"/>
+>><img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" alt="luau" width="50" height="50"/>
 >></a>
 >><a href="https://www.lua.org/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="55" height="55"/>
@@ -93,9 +96,6 @@
 >></a>
 >><a href="https://www.nixos.org/" target="_blank" rel="noreferrer">
 >><img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" alt="nixos" width="50" height="50"/>
->></a>
->><a href="https://www.gentoo.org/" target="_blank" rel="noreferrer">
->><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg" alt="gentoo" width="50" height="50"/>
 >></a>
 >><a href="https://news.microsoft.com/windows11-general-availability/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="windows 11" width="50" height="50"/>
