@@ -39,11 +39,11 @@
 >><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="50" height="50"/>
 >></a>
 >></a>
->><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+>><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 >><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="50"/>
 >></a>
 >><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
->><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="vs" width="50" height="50"/>
+>><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/960px-Visual_Studio_Icon_2026.svg.png" alt="vst" width="50" height="50"/>
 >></a>
 >><a href="https://mariadb.com/docs/" target="_blank" rel="noreferrer">
 >><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="60" height="50"/>
