@@ -98,7 +98,7 @@
 >><img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" alt="nixos" width="50" height="50"/>
 >></a>
 >><a href="https://news.microsoft.com/windows11-general-availability/" target="_blank" rel="noreferrer">
->><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="windows 11" width="50" height="50"/>
+>><img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Windows_11_logo.svg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Windows_logo_-_2021.svg" alt="windows 11" width="50" height="50"/>
 >></a>
 >><p>
 
