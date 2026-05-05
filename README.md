@@ -124,6 +124,17 @@
 
 </p>
 
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zoi1op&theme=dark&hide_border=true&background=0D1117&ring=6d7f8a&fire=6d7f8a&currStreakLabel=6d7f8a" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zoi1op&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6d7f8a&text_color=6d7f8a&icon_color=6d7f8a" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoi1op&layout=compact&hide_border=true&bg_color=0D1117&title_color=6d7f8a&text_color=6d7f8a" height="180"/>
+</p>
+
 <!-- Dark mode -->
  <a href="https://github.com/zoi1op#gh-dark-mode-only">
   <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=zoi1op&show_icons=true&include_all_commits=true&icon_color=6d7f8a&title_color=6d7f8a&text_color=6d7f8a&bg_color=041722&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="My Github stats" height="330" />
