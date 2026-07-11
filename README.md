@@ -1,6 +1,22 @@
+
+# README
+
 <p align="center">
   <h2 align="center">Hello, I'm Georgii 🇷🇺</h2>
-  <h5 align="center">I am a Russian developer. I work with many programming languages</h5>
+  <h5 align="center">
+    Full-Stack Developer • Backend • Desktop • Mobile • Cloud
+  </h5>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <h2 align="center">Socials</h2>
@@ -13,116 +29,59 @@
 
 ---
 
-<h1 align="center">Tools and Technologies</h1>
+<h1 align="center">Tools & Technologies</h1>
+
 <p align="center">
 
-<a href="https://www.jetbrains.com/toolbox-app">
-<img src="https://resources.jetbrains.com/storage/products/toolbox/img/meta/toolbox_logo_300x300.png" width="50"/>
-</a>
-
-<a href="https://www.jetbrains.com/idea">
-<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="50"/>
-</a>
-
-<a href="https://www.jetbrains.com/pycharm">
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="50"/>
-</a>
-
-<a href="https://www.jetbrains.com/go/">
-<img src="https://dl.flathub.org/media/com/jetbrains/GoLand/icons/128x128@2/com.jetbrains.GoLand.png" width="50"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" width="50"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50"/>
-</a>
-
-<a href="https://visualstudio.microsoft.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg" width="50"/>
-</a>
-
-<a href="https://mariadb.com/docs/">
-<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="60"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" width="60"/>
-</a>
-
-<a href="https://kubernetes.io/">
-<img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png" width="58"/>
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" width="50"/>
-</a>
-
-<a href="https://gradle.com/">
-<img src="https://www.svgrepo.com/show/353831/gradle.svg" width="55"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecassandra/apachecassandra-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="50"/>
 
 </p>
 
 ---
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Programming Languages & Frameworks</h2>
+
 <p align="center">
 
-<a href="https://dev.java/">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="55"/>
-</a>
-
-<a href="https://kotlinlang.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="50"/>
-</a>
-
-<a href="https://go.dev/">
-<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="75"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"/>
-</a>
-
-<a href="https://luau.org/">
-<img src="https://luau.org/_astro/luau-logo.DU3ngeWd.svg" width="50"/>
-</a>
-
-<a href="https://www.lua.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="55"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/>
+<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50"/>
 
 </p>
 
 ---
 
 <h2 align="center">Operating Systems</h2>
+
 <p align="center">
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-</a>
-
-<a href="https://www.nixos.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" width="50"/>
-</a>
-
-<a href="https://www.microsoft.com/windows11">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" width="50"/>
-</a>
-
 </p>
+
+---
 
 <h2 align="center">GitHub Stats</h2>
 
