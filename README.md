@@ -1,6 +1,3 @@
-
-# README
-
 <p align="center">
   <h2 align="center">Hello, I'm Georgii 🇷🇺</h2>
   <h5 align="center">
